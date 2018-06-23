@@ -1,5 +1,10 @@
+body {
+  font-family: Arial, Helvetica, sans-serrif;
+  background-color: #333;
+}
+
 #head-title {
-  color: #14b7cc;
+  color: whitesmoke;
 }
 
 /*# sourceMappingURL=style.css.map */

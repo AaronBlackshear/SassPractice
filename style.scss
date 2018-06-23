@@ -1,12 +1,14 @@
 //$ declares variables
 $primary-color: rgb(20, 183, 204);
 $secondary-color: rgb(218, 46, 23);
+$font-family: Arial, Helvetica, sans-serrif;
 
 //DARK THEME COLORS
 $dark-primary-font: rgb(245, 245, 245);
 $dark-primary-background: #333;
 
 body{
+    font-family: $font-family;
     background-color: $dark-primary-background;
 }
 
