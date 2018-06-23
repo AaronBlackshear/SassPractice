@@ -2,6 +2,14 @@
 $primary-color: rgb(20, 183, 204);
 $secondary-color: rgb(218, 46, 23);
 
+//DARK THEME COLORS
+$dark-primary-font: rgb(245, 245, 245);
+$dark-primary-background: #333;
+
+body{
+    background-color: $dark-primary-background;
+}
+
 #head-title{
-    color: $primary-color;
+    color: $dark-primary-font;
 }
